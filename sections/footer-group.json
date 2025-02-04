@@ -11,7 +11,7 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "newsletter": {
+    "sss": {
       "type": "newsletter",
       "blocks": {
         "heading": {
@@ -63,7 +63,7 @@
     }
   },
   "order": [
-    "newsletter",
+    "sss",
     "footer"
   ]
 }
