@@ -12,5 +12,16 @@
   "context": {
     "market": "ua"
   },
-  "sections": {}
+  "sections": {
+    "video_ieMmpy": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    }
+  },
+  "order": [
+    "video_ieMmpy",
+    "image-with-text",
+    "featured_collection"
+  ]
 }
