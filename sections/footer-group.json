@@ -8,7 +8,7 @@
  * ------------------------------------------------------------
  */
 {
-  "name": "my footer",
+  "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
     "newsletter": {
