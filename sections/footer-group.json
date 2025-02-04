@@ -11,7 +11,7 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "sss": {
+    "newsletter": {
       "type": "newsletter",
       "blocks": {
         "heading": {
@@ -49,7 +49,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": false,
-        "newsletter_heading": "",
+        "newsletter_heading": "LALALEND",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
@@ -63,7 +63,7 @@
     }
   },
   "order": [
-    "sss",
+    "newsletter",
     "footer"
   ]
 }
